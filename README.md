@@ -1,4 +1,4 @@
-# Hi there, I'm xl1r 👋
+# Hi there, I'm John :) 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves building innovative solutions and contributing to open-source projects.
 
