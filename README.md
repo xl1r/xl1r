@@ -24,10 +24,5 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building inno
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=xl1r&theme=github)
 
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/xl1r)
-- [Twitter](https://twitter.com/xl1r)
-- [Personal Website](https://xl1r.dev)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects!
