@@ -1,28 +1,24 @@
-# Hi there, I'm John :) 👋
+# 👋 Hey, I'm xl1r
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building innovative solutions and contributing to open-source projects.
+- 🔐 Learning **cyber security**
+- 🖥️ Writing code in **C++**, **Python**, **Lua**, and more
+- 🚀 Interested in low-level stuff, exploit dev, and tooling
 
-## 🔧 Technologies & Tools
+## 📊 GitHub stats
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![GitHub Streak](https://streak-stats.demolab.com?user=xl1r&theme=github-dark-blue&hide_border=true)
 
-## 📊 GitHub Stats
+![xl1r's GitHub stats](https://github-readme-stats.vercel.app/api?username=xl1r&show_icons=true&theme=github_dark&hide_border=true)
 
-![xl1r's GitHub stats](https://github-readme-stats.vercel.app/api?username=xl1r&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xl1r&layout=compact&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xl1r&layout=compact&theme=radical)
+## 🛡️ What I'm learning
 
-## 🚀 Streak Stats
+- Secure coding in C++ (memory safety, basic reversing)
+- Python for automation, scripts, and tools
+- Lua for configs, game scripting, and quick prototypes
+- General cyber‑sec concepts: networking, basic crypto, and CTF‑style challenges
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xl1r&theme=radical)
+## 📫 Contact
 
-## 📈 Activity Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=xl1r&theme=github)
-
-
-Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects!
+- GitHub: [@xl1r](https://github.com/xl1r)
