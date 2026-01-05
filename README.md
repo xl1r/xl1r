@@ -6,11 +6,11 @@
 
 ## 📊 GitHub stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=xl1r&theme=github-dark-blue&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=xl1r&theme=github-dark-blue&hide_border=true)
 
-![xl1r's GitHub stats](https://github-readme-stats.vercel.app/api?username=xl1r&show_icons=true&theme=github_dark&hide_border=true)
+![xl1r's GitHub stats](https://your-github-readme-stats-instance.vercel.app/api?username=xl1r&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xl1r&layout=compact&theme=github_dark&hide_border=true)
+![Top Langs](https://your-github-readme-stats-instance.vercel.app/api/top-langs/?username=xl1r&layout=compact&theme=github_dark&hide_border=true)
 
 ## 🛡️ What I'm learning
 
